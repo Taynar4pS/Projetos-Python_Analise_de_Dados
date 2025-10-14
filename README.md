@@ -1,26 +1,73 @@
-# Análise de Dados com Python
+# 🐍 Curso de Python para Análise de Dados – EBAC
 
 ## 📊 Sobre o Projeto
-Este repositório reúne as atividades desenvolvidas durante o curso de **Python**, com foco em **limpeza e organização de dados**, **análises estatísticas** e **visualização gráfica**. O objetivo é aplicar na prática técnicas de manipulação e análise de dados para extrair insights relevantes de diferentes conjuntos de dados.
+Este repositório reúne as atividades e projetos desenvolvidos durante o curso de **Python para Análise de Dados da EBAC**.  
+Ao longo das aulas, foram aplicados conceitos essenciais de **limpeza, tratamento, análise e visualização de dados**, utilizando ferramentas amplamente usadas no mercado. O objetivo foi construir uma base sólida em **Data Analysis com Python**, integrando teoria e prática.
 
-## 🧩 Conteúdos Abordados
-- **Limpeza e organização de dados:** remoção de valores nulos e duplicados, padronização de formatos, conversão de tipos de dados e criação de colunas derivadas.
-- **Análises estatísticas:** cálculo de médias, medianas, desvios-padrão, frequências e proporções para compreensão inicial dos dados.
-- **Visualização de dados:** gráficos de barras, histogramas, scatter plots, boxplots e outras visualizações que facilitam a interpretação e a comunicação dos resultados.
+---
+
+## 🧩 Módulos Principais
+
+### 1️⃣ Fundamentos do Python
+- Tipos de dados, variáveis e estruturas condicionais  
+- Laços de repetição e funções  
+- Boas práticas e organização de código  
+
+### 2️⃣ Manipulação e Limpeza de Dados
+- Uso do **pandas** para importar, tratar e transformar bases de dados  
+- Identificação e tratamento de valores nulos ou duplicados  
+- Padronização de formatos e criação de colunas calculadas  
+
+### 3️⃣ Análises Estatísticas
+- Estatísticas descritivas com **NumPy** e **pandas**  
+- Cálculo de média, mediana, moda e desvio-padrão  
+- Exploração de frequências e correlações  
+
+### 4️⃣ Visualização de Dados
+- Criação de gráficos com **Matplotlib** e **Seaborn**  
+- Gráficos de barras, pizza, histogramas, boxplots e scatter plots  
+- Customização e apresentação visual dos resultados  
+
+---
+
+## 🧠 Habilidades Desenvolvidas
+- Pensamento analítico e estruturado  
+- Interpretação e exploração de grandes volumes de dados  
+- Automação de tarefas repetitivas  
+- Comunicação de resultados por meio de gráficos e relatórios  
+
+---
 
 ## 💻 Tecnologias Utilizadas
-- **Python 3.x**
-- **Pandas** – manipulação e organização de dados
-- **NumPy** – cálculos numéricos
-- **Matplotlib e Seaborn** – criação de gráficos e visualizações
-- **Jupyter Notebook** – documentação e execução interativa do código
+| Biblioteca | Função Principal |
+|-------------|------------------|
+| **Python 3.x** | Linguagem base |
+| **Pandas** | Manipulação de dados |
+| **NumPy** | Cálculos numéricos |
+| **Matplotlib** | Visualização básica |
+| **Seaborn** | Visualização avançada |
+| **Jupyter Notebook** | Documentação e execução interativa |
 
-## 🚀 Objetivo
-Este projeto visa consolidar habilidades práticas em **análise de dados com Python**, mostrando desde o tratamento inicial dos dados até a geração de gráficos claros e informativos, proporcionando um aprendizado completo e aplicado.
+---
 
 ## 📁 Estrutura do Repositório
-...
+Este repositório será estruturado da seguinte maneira, organizando projetos, bases de dados e resultados para facilitar o acesso e a compreensão:
 
+/notebooks        # Notebooks com projetos e exercícios práticos realizados durante o curso
+/data             # Conjuntos de dados utilizados nos projetos, em formatos CSV ou Excel
+/graphs           # Gráficos e visualizações geradas a partir das análises
+/scripts          # Scripts auxiliares ou funções criadas para manipulação de dados
+/README.md        # Descrição do repositório, objetivos e instruções de uso
 
-## 📌 Observações
-Este repositório é ideal para quem deseja **aprender ou revisar técnicas de análise de dados com Python**, aplicando conceitos de forma prática e organizada.
+---
+
+## 🚀 Objetivo Final
+Demonstrar o aprendizado progressivo no uso de **Python para análise de dados**, desde a limpeza e organização das informações até a construção de visualizações que apoiem a **tomada de decisões baseada em dados**.
+
+---
+
+## 🧩 Autor
+👩‍⚕️ **Taynara P. Santos**  
+📈 Médica Veterinária & Analista de Dados em formação  
+💬 *“Transformando dados em conhecimento.”*
+
