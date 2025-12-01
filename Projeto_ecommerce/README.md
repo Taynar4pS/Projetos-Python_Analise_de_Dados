@@ -16,8 +16,8 @@ O projeto serve como estudo e como base para dashboards profissionais de anális
 ## 📂 Estrutura do Projeto
 ```
 ├── app.py                          # Arquivo principal da aplicação Dash
-├── assets/                         # Arquivos CSS (opcional)
-├── ecommerce_estatistica.csv       # Base de dados utilizada
+├── imagens/                        # imagens 
+├── DataSet                         # Base de dados utilizada
 └── README.md                       # Este arquivo
 ```
 ---
