@@ -1,24 +1,35 @@
 # Visualização de Dados Avançados com Python
 
-Este projeto apresenta visualizações de dados mais avançadas desenvolvidas em Python, com foco em explorar relações entre variáveis e gerar insights visuais a partir de um conjunto de dados. Inclui gráficos mais elaborados que combinam variáveis contínuas e categóricas para aprofundar a análise e interpretação dos dados.
+Este projeto apresenta visualizações avançadas realizadas em Python para explorar relações entre variáveis em um conjunto de dados demográficos e educacionais. O objetivo é aprofundar a análise visual e gerar insights que auxiliem na compreensão do perfil dos clientes.
 
 ---
 
-## 📊 Imagens
+## Sobre o Projeto
+
+O foco deste repositório é demonstrar habilidades em visualização de dados utilizando bibliotecas como Matplotlib e Seaborn, aplicando técnicas que vão além dos gráficos básicos para entender padrões mais complexos e relações entre múltiplas variáveis.
+
+Os dados analisados incluem informações sobre idade, nível educacional, salário, entre outras características demográficas.
+
+---
+
+## Dados Utilizados
+
+Os dados são fictícios (ou provenientes de [inserir fonte], se for o caso), contendo registros de clientes com as seguintes colunas principais:
+
+- **Idade**: idade dos indivíduos;
+- **Nível de Escolaridade**: grau de instrução;
+- **Salário**: remuneração mensal;
+- **Estado Civil**, **Anos de Experiência**, entre outros.
+
+---
+
+## Visualizações e Insights
 
 ### Idade vs Nível de Escolaridade
 
-![Idade vs Nível de Escolaridade](Outputs/Imagens/Idade_vs_nivel_educacao.png)  
-*Gráfico que explora a relação entre a idade dos indivíduos e o seu nível de escolaridade. Essa visualização permite observar tendências ou padrões na distribuição de níveis educacionais ao longo da faixa etária.*
+![Idade vs Nível de Escolaridade](Outputs/Imagens/Idade_vs_nivel_educacao.png)
 
----
-
-## 🧠 Objetivos do Projeto
-
-- Explorar técnicas avançadas de visualização de dados em Python;
-- Compreender relações entre variáveis demográficas e educacionais;
-- Aplicar boas práticas de visualização e interpretação gráfica;
-- Preparar material visual para portfólio profissional em análise de dados.
+Este gráfico explora a distribuição da idade em relação ao nível de escolaridade dos clientes. Observa-se que certos níveis educacionais são mais frequentes em faixas etárias específicas, sugerindo padrões de escolarização conforme a idade.
 
 ---
 
