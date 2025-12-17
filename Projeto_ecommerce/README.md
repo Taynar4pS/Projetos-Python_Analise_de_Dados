@@ -6,7 +6,9 @@ O dashboard possibilita:
 
 - Filtragem dinâmica de gênero;
 - Gráfico de barras comparando Nota x Desconto;
+![Nota x Desconto](Outputs/Imagens/nota_desconto_genero.png)
 - Gráfico 3D interativo mostrando Preço, Quantidade Vendida e Desconto;
+![Produto x Desconto](Outputs/Imagens/produto_vs_desconto.png)
 - Tabela dinâmica com filtragem por preço.
 
 O projeto serve como estudo e como base para dashboards profissionais de análise de dados.
