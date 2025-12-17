@@ -14,14 +14,14 @@ Ao longo das aulas, foram aplicados conceitos essenciais de **limpeza, tratament
 ### 2️⃣ **Estatistica_dados**  
   Análises estatísticas descritivas e inferenciais para entender distribuições, medidas centrais, dispersão e relações entre variáveis.
 
-### 3️⃣ **Visualizacao_dados**  
+### 3️⃣ **Projetos_Ecommerce**  
+  Análises e estudos focados em casos de uso específicos, como e-commerce, segmentação de clientes e outros.
+
+### 4️⃣ **Visualizacao_dados**  
   Visualizações básicas com Matplotlib e Seaborn para explorar dados demográficos e econômicos, facilitando a compreensão inicial dos dados.
 
-### 4️⃣ **Visualizacao_dados_avancados**  
+### 5️⃣ **Visualizacao_dados_avancados**  
   Visualizações mais elaboradas para identificar padrões complexos, correlações e tendências, com gráficos que combinam múltiplas variáveis.
-
-### 5️⃣ **Projetos_Ecommerce**  
-  Análises e estudos focados em casos de uso específicos, como e-commerce, segmentação de clientes e outros.
 
 ---
 
