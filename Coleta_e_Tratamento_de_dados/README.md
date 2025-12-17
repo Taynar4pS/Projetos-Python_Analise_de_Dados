@@ -26,8 +26,8 @@ Coleta_e_Tratamento_de_dados/
 ├── data/
 │ └── raw/ # Dados brutos utilizados no projeto (quando aplicável)
 │
-├── notebooks/
-│ └── *.ipynb # Jupyter Notebooks com coleta, exploração e tratamento
+├── Scripts/
+│ └── *.py # Arquivo em python com coleta, exploração e tratamento
 │
 ├── outputs/ # Resultados gerados (tabelas, gráficos, arquivos tratados)
 │
