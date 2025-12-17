@@ -1,4 +1,3 @@
-```md
 # 🧹 Preparação de Dados
 
 Este projeto faz parte do repositório **Projetos em Python para Análise de Dados** e tem como foco demonstrar, de forma prática, as principais etapas de **preparação de dados**, etapa fundamental antes de qualquer análise estatística ou modelagem preditiva.
@@ -22,7 +21,7 @@ O objetivo é consolidar conceitos fundamentais e boas práticas utilizadas em p
 
 ## 🗂️ Estrutura do Projeto
 
-```
+```bash
 
 Preparacao_dados/
 │
@@ -32,7 +31,7 @@ Preparacao_dados/
 ├── transformacao_features.py
 └── README.md
 
-````
+```
 
 ---
 
