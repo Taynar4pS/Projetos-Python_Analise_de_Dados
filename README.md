@@ -8,25 +8,20 @@ Ao longo das aulas, foram aplicados conceitos essenciais de **limpeza, tratament
 
 ## 🧩 Módulos Principais
 
-### 1️⃣ Fundamentos do Python
-- Tipos de dados, variáveis e estruturas condicionais  
-- Laços de repetição e funções  
-- Boas práticas e organização de código  
+### 1️⃣ **Coleta_e_Tratamento_de_dados** 
+- Scripts para importar, limpar e preparar dados para análise, abordando técnicas de tratamento de valores faltantes, normalização e transformação.
 
-### 2️⃣ Manipulação e Limpeza de Dados
-- Uso do **pandas** para importar, tratar e transformar bases de dados  
-- Identificação e tratamento de valores nulos ou duplicados  
-- Padronização de formatos e criação de colunas calculadas  
+### 2️⃣ **Estatistica_dados**  
+  Análises estatísticas descritivas e inferenciais para entender distribuições, medidas centrais, dispersão e relações entre variáveis.
 
-### 3️⃣ Análises Estatísticas
-- Estatísticas descritivas com **NumPy** e **pandas**  
-- Cálculo de média, mediana, moda e desvio-padrão  
-- Exploração de frequências e correlações  
+### 3️⃣ **Visualizacao_dados**  
+  Visualizações básicas com Matplotlib e Seaborn para explorar dados demográficos e econômicos, facilitando a compreensão inicial dos dados.
 
-### 4️⃣ Visualização de Dados
-- Criação de gráficos com **Matplotlib** e **Seaborn**  
-- Gráficos de barras, pizza, histogramas, boxplots e scatter plots  
-- Customização e apresentação visual dos resultados  
+### 4️⃣ **Visualizacao_dados_avancados**  
+  Visualizações mais elaboradas para identificar padrões complexos, correlações e tendências, com gráficos que combinam múltiplas variáveis.
+
+### 5️⃣ **Projetos_Ecommerce**  
+  Análises e estudos focados em casos de uso específicos, como e-commerce, segmentação de clientes e outros.
 
 ---
 
