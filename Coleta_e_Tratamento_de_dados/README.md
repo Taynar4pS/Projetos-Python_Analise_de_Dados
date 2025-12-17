@@ -20,7 +20,7 @@ Este projeto não tem como foco principal gerar modelos preditivos, mas sim gara
 ---
 
 ## 🗂️ Estrutura do Repositório
-
+```bash
 Coleta_e_Tratamento_de_dados/
 │
 ├── data/
@@ -32,7 +32,7 @@ Coleta_e_Tratamento_de_dados/
 ├── outputs/ # Resultados gerados (tabelas, gráficos, arquivos tratados)
 │
 ├── README.md # Documentação do projeto
-
+```
 
 > 📌 Observação: quando os dados utilizados são externos, grandes ou provenientes de plataformas públicas, eles não são versionados diretamente no repositório. As instruções para obtenção dos dados são descritas abaixo.
 
