@@ -65,3 +65,25 @@ git clone https://github.com/Taynar4pS/Projetos-Python_Analise_de_Dados.git
 cd Projetos-Python_Analise_de_Dados/Visualizacao_dados
 ```
 3.Execute os scripts Python ou abra os notebooks para visualizar os códigos e gerar as imagens.
+## 📌 Observações Importantes
+
+Este projeto faz parte de um **processo de aprendizado e transição de carreira** para a área de dados.
+
+O foco está na **clareza do processo**, **organização do código** e **boas práticas de análise estatística**.
+
+Melhorias, ajustes e refatorações podem ser realizados conforme a evolução dos estudos.
+
+---
+
+## 👩‍💻 Autora
+
+**Tay (Taynara Paula)**
+Estudante de Análise de Dados | Python | Em transição de carreira
+
+🔗 GitHub: [https://github.com/Taynar4pS](https://github.com/Taynar4pS)
+
+---
+
+✨ Feedbacks e sugestões são sempre bem-vindos!
+
+
