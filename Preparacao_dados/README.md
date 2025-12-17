@@ -24,11 +24,15 @@ O objetivo é consolidar conceitos fundamentais e boas práticas utilizadas em p
 ```bash
 
 Preparacao_dados/
-│
-├── codificacao_variaveis_categorias.py
-├── intro_preparacao_dados.py
-├── normalizacao_padronizacao_dados.py
-├── transformacao_features.py
+├── DataSet/
+│   └── clientes-v2.csv
+├── Outputs/
+│   └── clientes-v2-tratados.csv
+├── Scripts/
+│   ├── codificacao_variaveis_categoricas.py
+│   ├── intro_preparacao_dados.py
+│   ├── normalizacao_padronizacao_dados.py
+│   └── transformacao_features.py
 └── README.md
 
 ```
