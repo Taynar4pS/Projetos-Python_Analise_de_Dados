@@ -38,15 +38,15 @@ O projeto foi desenvolvido com:
 ## 🧪 Como Executar
 
 1. Clone o repositório:  
-   ```bash
+```bash
    git clone https://github.com/Taynar4pS/Projetos-Python_Analise_de_Dados.git
+```
 2. Entre no diretório do projeto:
- ```bash
+```bash
 cd Projetos-Python_Analise_de_Dados/Visualizacao_dados_avancados
 ```
-
 3. Instale as dependências:
- ```bash
+```bash
 pip install -r requirements.txt
 ```
 
