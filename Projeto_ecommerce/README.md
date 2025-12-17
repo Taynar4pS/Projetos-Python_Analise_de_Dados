@@ -7,8 +7,16 @@ O dashboard possibilita:
 - Filtragem dinâmica de gênero;
 - Gráfico de barras comparando Nota x Desconto;
 ![Nota x Desconto](Outputs/Imagens/nota_desconto_genero.png)
+
+Este gráfico mostra a relação entre a nota atribuída aos produtos e o valor do desconto, segmentada por gênero (masculino e feminino).
+Observa-se que produtos com notas mais altas (próximas de 4 a 5) concentram a maior parte dos descontos, especialmente no grupo masculino, que apresenta valores de desconto mais elevados e maior dispersão. Já os produtos do grupo feminino tendem a apresentar descontos mais moderados, embora também se concentrem em notas altas.
+
 - Gráfico 3D interativo mostrando Preço, Quantidade Vendida e Desconto;
 ![Produto x Desconto](Outputs/Imagens/produto_vs_desconto.png)
+
+Neste gráfico tridimensional é possível analisar simultaneamente a relação entre quantidade vendida, preço e desconto, também segmentada por gênero.
+A visualização sugere que produtos com maior volume de vendas e preços intermediários tendem a receber descontos mais relevantes. Além disso, nota-se uma sobreposição entre os gêneros, indicando comportamentos semelhantes, mas com alguns produtos masculinos apresentando descontos mais altos em faixas específicas de preço e vendas.
+
 - Tabela dinâmica com filtragem por preço.
 
 O projeto serve como estudo e como base para dashboards profissionais de análise de dados.
