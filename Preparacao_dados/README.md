@@ -113,5 +113,3 @@ Estudante de Análise de Dados | Python | Em transição de carreira
 
 ✨ Feedbacks e sugestões são sempre bem-vindos!
 
-```
-```
