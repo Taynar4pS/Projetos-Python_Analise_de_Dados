@@ -4,7 +4,7 @@ Este projeto apresenta visualizações de dados mais avançadas desenvolvidas em
 
 ---
 
-## 📊 Imagens e Breves Explicações
+## 📊 Imagens
 
 ### Idade vs Nível de Escolaridade
 
