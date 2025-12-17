@@ -23,13 +23,13 @@ Este projeto não tem como foco principal gerar modelos preditivos, mas sim gara
 ```bash
 Coleta_e_Tratamento_de_dados/
 │
-├── data/
+├── DataSet/
 │ └── raw/ # Dados brutos utilizados no projeto (quando aplicável)
 │
 ├── Scripts/
 │ └── *.py # Arquivo em python com coleta, exploração e tratamento
 │
-├── outputs/ # Resultados gerados (tabelas, gráficos, arquivos tratados)
+├── Outputs/ # Resultados gerados (tabelas, gráficos, arquivos tratados)
 │
 ├── README.md # Documentação do projeto
 ```
